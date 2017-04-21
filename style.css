@@ -44,7 +44,7 @@ a:hover {
 
 #header{
   text-align: center;
-  background-image: linear-gradient(-225deg, rgba(0,0,0,0.2) 0%, rgba(0,0,0,0.6) 50%), url("images/tianfu-square.jpg");
+  background-image: linear-gradient(-225deg, rgba(0,0,0,0.2) 0%, rgba(0,0,0,0.4) 50%), url("images/tianfu-square.jpg");
   background-size: cover;
   padding: 150px;
   color: white;
